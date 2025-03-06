@@ -6,4 +6,4 @@ Foram utilizadas as seguintes tecnologias:
 
 -CSS
 
--Swuiper (biblioteca de javascript para a criação de carrosel)
+-Swiper (biblioteca de javascript para a criação de carrosel)
