@@ -1,4 +1,4 @@
-https://felipes0uza.github.io/alurabooks/
+https://alurabooks-felipesouza.vercel.app/
 
 Projeto desenvolvido durante o módulo de responsividade do curso de Desenvolvimento Front End da Alura.
 
